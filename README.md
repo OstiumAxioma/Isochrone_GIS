@@ -1,4 +1,4 @@
-#Project setup
+# Project setup
 
 ## (Do this in both backend/ and code/)
 ```
