@@ -1,6 +1,6 @@
-# Project setup
+# WebGIS Realtime Isochorne
 
-## (Do this in both backend/ and code/)
+## Project setup (Do this in both backend/ and code/)
 ```
 npm install
 ```
